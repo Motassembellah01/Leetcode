@@ -1,6 +1,6 @@
 🚀 LeetCode Arrays & Hashing Solutions
 
-This repository contains my solutions to **NeetCode’s Arrays & Hashing problems on LeetCode**.
+This directory contains my solutions to **NeetCode’s Arrays & Hashing problems on LeetCode**.
 I created this repo not just to track progress, but also to showcase my perseverance and commitment to improving problem-solving skills through consistent practice.
 
 🎯 Purpose
