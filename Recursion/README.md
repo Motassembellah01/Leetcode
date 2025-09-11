@@ -1,1 +1,1 @@
-# recursion_problems
+# Data structures and algorithms course (Udemy) - solved problems
