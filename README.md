@@ -19,5 +19,7 @@ It is organized by **patterns** and **data structures**, making it easier to nav
 - **heap/** → Priority queue and heap-based problems.
 - **linked_lists/** → Singly and doubly linked list problems.
 - **trees/** → Binary trees, BST, and tree traversal problems.
+- **greedy/**
+- **math & geometry/**
 
 ---
