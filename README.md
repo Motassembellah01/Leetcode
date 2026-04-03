@@ -1,6 +1,6 @@
-# NeetCode Roadmap Solutions 🚀
+# NeetCode Roadmap Solutions + Extra Leetcode problems 🚀
 
-This repository contains my solutions to problems from the **[NeetCode Roadmap](https://neetcode.io/roadmap)**.  
+This repository contains my solutions to problems from the **[NeetCode Roadmap](https://neetcode.io/roadmap)** but also contains other interesting leetcode problems not covered by the Roadmap.  
 It is organized by **patterns** and **data structures**, making it easier to navigate and revisit problems.
 
 ---
